@@ -15,3 +15,11 @@
   <li>ESLint + Prettier + EditorConfig</li>
   <li>VS Code</li>
 </ul>
+<h1>
+  Rocketseat
+</h1>
+<ul>
+  <li>Link do Canal da Rocketseat : https://www.youtube.com/channel/UCSfwM5u0Kce6Cce8_S72olg</li>
+  <li>Link da Plataforma da Rocketseat: https://www.rocketseat.com.br/</li>
+</ul>
+
